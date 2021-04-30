@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I am Lewis Culbert
 
-<!--
-**Gocus10/Gocus10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on landing my first developer job!
+- 📚 My current project is a wedding planning website built with the MERN stack!
+- ⚡ Fun fact: I like to climb or play video games in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect with me
+[![My Portfoilo](./images/portfolio.png)](https://github.com/Gocus10/My-portfolio) [![GitHub](./images/github.png)](https://github.com/Gocus10) [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/lewis-culbert-111342110/)
+
+---
+
+## Languages and Tools
+![Javascript](./images/javascript.png) ![HTML](./images/html.png) ![CSS](./images/css.png) ![Git](./images/git.png) ![Handlebars](./images/handlebars.png) ![jQuery](./images/jquery.png) ![MongoDB](./images/mongodb.png) ![Node.js](./images/node.png) ![Express.js](./images/express.png) ![Visual Studio](./images/visual-studio.png) ![React](./images/react.png) ![sql](./images/sql.png)
