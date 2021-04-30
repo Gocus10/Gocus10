@@ -9,7 +9,7 @@
 ---
 
 ## Connect with me
-[![My Portfoilo](./images/portfolio.png)](https://github.com/Gocus10/My-portfolio)  [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/lewis-culbert-111342110/)
+[![My Portfoilo](./images/portfolio.png)](https://github.com/Gocus10/My-portfolio) My Portfolio               [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/lewis-culbert-111342110/) My LinkedIn
 
 ---
 
